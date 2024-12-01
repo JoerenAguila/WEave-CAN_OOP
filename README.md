@@ -159,7 +159,7 @@ I would like to express my sincere gratitude to the following individuals:
 
 <br><br>
   <h3 align="center"><strong>Thank you for your priceless contribution to the cultural legacy of the Philippines!</strong></h3>
-  <h2 align="center">"I CAN, YOU CAN, WEAVE CAN!"</h2>
+  <h2 align="center">"YOU CAN, I CAN, WEAVE CAN!"</h2>
 </div>
 
 ---

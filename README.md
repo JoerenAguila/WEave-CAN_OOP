@@ -24,11 +24,11 @@ V. [Acknowledgements](#acknowledgements)
 **WEave CAN** is a Java-based inventory and order management system designed for Filipino artisans, particularly weavers. The system streamlines stock and order management while promoting cultural preservation and sustainable economic growth. By digitizing artisan operations, it helps honor indigenous materials and patterns, ensuring that Filipino weaving traditions are maintained and expanded.
 
 ### Key Features:
-- **Inventory Management** - Manage stock levels, materials, patterns, and product pricing efficiently.  
-- **Order Processing** - Simplifies the process of creating customer orders, automatically updating stock, and tracking order statuses.  
-- **Order Tracking** - View and track customer orders, including quantities and statuses with detailed insights.  
-- **Admin Panel** - Manage product restocking and pricing adjustments in a user-friendly admin panel.  
-- **Reporting** - Generate reports on inventory and sales performance to aid decision-making.  
+- **Inventory Management** - manage stock levels, materials, patterns, and product pricing efficiently.  
+- **Order Processing** - simplifies the process of creating customer orders, automatically updating stock, and tracking order statuses.  
+- **Order Tracking** - view and track customer orders, including quantities and statuses with detailed insights.  
+- **Admin Panel** - manage product restocking and pricing adjustments in a user-friendly admin panel.  
+- **Reporting** - generate reports on inventory and sales performance to aid decision-making.  
 
 ---
 
@@ -78,10 +78,10 @@ V. [Acknowledgements](#acknowledgements)
 
 **WEave CAN** contributes to **SDG 8** by fostering sustainable business practices and supporting economic growth in artisan communities:
 
-- **Efficiency and Growth** - Streamlines inventory and order management, enabling artisans to scale their businesses efficiently.
-- **Economic Empowerment** - Provides access to digital tools that help weavers achieve income stability and financial independence.
-- **Cultural Heritage** - Highlights traditional weaving techniques and materials (e.g., abaca, cotton) to preserve Filipino craftsmanship.
-- **Community Impact** - Strengthens local economies and benefits indigenous and tribal groups reliant on weaving as a primary source of livelihood.
+- **Efficiency and Growth** - streamlines inventory and order management, enabling artisans to scale their businesses efficiently.
+- **Economic Empowerment** - provides access to digital tools that help weavers achieve income stability and financial independence.
+- **Cultural Heritage** - highlights traditional weaving techniques and materials (e.g., abaca, cotton) to preserve Filipino craftsmanship.
+- **Community Impact** - strengthens local economies and benefits indigenous and tribal groups reliant on weaving as a primary source of livelihood.
 
 ---
 
@@ -93,10 +93,10 @@ V. [Acknowledgements](#acknowledgements)
 
 **WEave CAN** actively supports **SDG 5** by promoting gender equality and empowering women, who constitute a significant portion of Filipino weavers:
 
-- **Women’s Empowerment** - Focuses on providing digital tools and resources to women artisans, enabling them to manage their businesses more effectively and access larger markets.
-- **Economic Inclusion** - Addresses barriers that limit women’s participation in the workforce by offering solutions tailored to their roles in traditional crafts.
-- **Skill Development** - Encourages the preservation and growth of weaving skills, often passed down through generations of women, ensuring their cultural and economic relevance.
-- **Leadership Opportunities** - Recognizes women artisans as leaders in preserving cultural heritage and driving economic change within their communities.
+- **Women’s Empowerment** - focuses on providing digital tools and resources to women artisans, enabling them to manage their businesses more effectively and access larger markets.
+- **Economic Inclusion** - addresses barriers that limit women’s participation in the workforce by offering solutions tailored to their roles in traditional crafts.
+- **Skill Development** - encourages the preservation and growth of weaving skills, often passed down through generations of women, ensuring their cultural and economic relevance.
+- **Leadership Opportunities** - recognizes women artisans as leaders in preserving cultural heritage and driving economic change within their communities.
 
 By integrating these SDGs into its design and goals, **WEave CAN** serves as a platform for inclusive growth, gender equality, and cultural preservation, contributing to a better future for Filipino weaving communities.
 

@@ -66,7 +66,14 @@ V. [Acknowledgements](#acknowledgements)
 ---
 
 ## **III. Integration with SDG 8: Decent Work and Economic Growth**
-**WEave CAN** aligns with multiple Sustainable Development Goals, particularly **SDG 8: Decent Work and Economic Growth** and **SDG 5: Gender Equality**. These goals support the empowerment of Filipino artisans, with a focus on women weavers, to achieve sustainable economic opportunities and equality.
+In the concept of the name **WEave CAN,**
+
+**WE** means Woman Empowerment which highlights the woman lead business of the weaving community here in our country.
+
+**CAN** means they CAN also elevate the opportunities of their business transactions or the capability to work through a digitalized console based application.
+
+Thus, this console-based application aligns with multiple Sustainable Development Goals, particularly **SDG 8: Decent Work and Economic Growth** and **SDG 5: Gender Equality**. These goals support the empowerment of Filipino artisans, with a focus on women weavers, to achieve sustainable economic opportunities and equality.
+
 
 ---
 
